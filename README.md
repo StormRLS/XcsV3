@@ -12,4 +12,4 @@ https://github.com/StormRLS/XcsV3
 
 cd XcsV3
 
-python XcsV3.py
+python xcsv3.py
