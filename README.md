@@ -9,7 +9,7 @@ DoS Speed: 15 - 20 Mbps
 
 DDoS Speed: 250 - 300 Mbps
 
-How to install:
+# How to install:
 
 apt update && apt upgrade
 
