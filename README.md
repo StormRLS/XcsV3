@@ -1,5 +1,10 @@
 # XcsV3
 DDoS and DoS Tool
+Update V3.1: UI Improvement
+Update V3.2: DDoS & DoS Is Faster By 65.5 Times
+
+DoS Speed: 15 - 20 Mbps
+DDoS Speed: 250 - 300 Mbps
 
 How to install:
 
