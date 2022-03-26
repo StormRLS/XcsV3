@@ -18,27 +18,22 @@ Run XcsV3 on multiple windows and multiple devices for insanely fast DDoS Speeds
 
 # How to install:
   
- ​``` 
- ​​apt update && apt upgrade
- ​```
- 
- ​``` 
- ​pkg install git
- ​```
+`apt update && apt upgrade`
 
- 
- ​``` 
- ​git clone https://github.com/StormRLS/XcsV3
- ​```
+`pkg install python`
 
- 
- ​``` 
- ​cd XcsV3
- ​```
+`pkg install git`
 
- 
- ​``` 
- ​python xcsv3.py
- ​```
+`git clone https://github.com/StormRLS/XcsV3/releases/tag/xcsv4`
+
+`cd XcsV3`
+
+`python xcsv4.py`
+or for h2s:
+`python h2s.py`
+
+# How To Update:
+`rm -rf XcsV3`
+After That Re-do The How To Install
 
 
