@@ -17,7 +17,8 @@ Use XcsV3 on multiple windows and the speed will go as fast as 1Gbps+
 Run XcsV3 on multiple windows and multiple devices for insanely fast DDoS Speeds
 
 # How to install:
-'''
+ 
+ ​```
 apt update && apt upgrade
 
 pkg install git
@@ -28,4 +29,5 @@ https://github.com/StormRLS/XcsV3
 cd XcsV3
 
 python xcsv3.py
-'''
+ 
+ ​```
