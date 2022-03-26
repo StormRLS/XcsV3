@@ -17,7 +17,10 @@ Use XcsV3 on multiple windows and the speed will go as fast as 1Gbps+
 Run XcsV3 on multiple windows and multiple devices for insanely fast DDoS Speeds
 
 # How to install:
- 
+  
+ ​``` 
+ ​pip install scapy 
+ ​```
 ​apt update && apt upgrade
 
 pkg install git
