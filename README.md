@@ -1,11 +1,13 @@
-# XcsV3
+# XcsV4
 DDoS and DoS Tool
 
-Update V3.1: UI Improvement
+Update v3.1: UI Improvement
 
-Update V3.2: DDoS & DoS Is Faster By 65.5 Times
+Update v3.2: DDoS & DoS Is Faster By 65.5 Times
 
-Update V3.3: Better colors
+Update v3.3: Better colors
+
+Update v4.0: UI Re-Design And Added Hours To Seconds Converter (h2s.py)
 
 DoS Speed: 15 - 20 Mbps
 
