@@ -14,9 +14,9 @@ DoS Speed: 15 - 20 Mbps
 DDoS Speed: 250 - 300 Mbps
 
 # Pro Tips
-Use XcsV3 on multiple windows and the speed will go as fast as 1Gbps+
+Use XcsV4 on multiple windows and the speed will go as fast as 1Gbps+
 
-Run XcsV3 on multiple windows and multiple devices for insanely fast DDoS Speeds
+Run XcsV4 on multiple windows and multiple devices for insanely fast DDoS Speeds
 
 # How to install:
   
