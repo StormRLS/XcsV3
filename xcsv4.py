@@ -70,4 +70,4 @@ while True:
 
 	sent = sent + 1
 
-	print(Fore.MAGENTA + "[+] " + Fore.RED + "XcsV3 " + Fore.GREEN + "Sent %s packet to %s through port %s"%(sent, ip, port))
+	print(Fore.MAGENTA + "[+] " + Fore.RED + "XcsV4 " + Fore.GREEN + "Sent %s packet to %s through port %s"%(sent, ip, port))
