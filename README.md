@@ -28,8 +28,7 @@ Run XcsV3 on multiple windows and multiple devices for insanely fast DDoS Speeds
 
  
  ​``` 
- ​git clone 
-https://github.com/StormRLS/XcsV3
+ ​git clone https://github.com/StormRLS/XcsV3
  ​```
 
  
